@@ -1,4 +1,4 @@
-# tic-tac-toe# Odin Project - Tic Tac Toe Game
+# Odin Project - Tic Tac Toe Game
 
 ## Overview
 
